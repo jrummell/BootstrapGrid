@@ -4,6 +4,7 @@
   "authors": [
     "John Rummell"
   ],
+  "main": "dist/bootstrap-grid.min.css",
   "license": "MIT",
   "keywords": [
     "bootstrap",
